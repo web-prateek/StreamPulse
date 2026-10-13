@@ -1,0 +1,6 @@
+{
+  "name": "StreamPulse",
+  "description": "High-performance M3U and M3U8 video player for Android supporting remote live streaming, local video playback, offline playlist management, and instant search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
